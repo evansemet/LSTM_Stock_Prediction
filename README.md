@@ -1,7 +1,7 @@
 # AI Stock Price Predictor
-LSTM model to predict future stock prices
-
 Used a Long Short-Term Memory (LTSM) Artificial Recurrent Neural Network (RNN) model to predict future stock prices.
+
+
 
 Below is a short visual representation of what the model does:
 
