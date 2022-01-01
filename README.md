@@ -3,6 +3,8 @@ LSTM model to predict future stock prices
 
 Used a Long Short-Term Memory (LTSM) Artificial Recurrent Neural Network (RNN) model to predict future stock prices.
 
+Below is a short visual representation of what the model does:
+
 
 Graph of SPXL (3x Leveraged S&P500):
 
@@ -13,6 +15,9 @@ Graph showing training of LTSM RNN model:
 ![image](https://user-images.githubusercontent.com/82794849/147861300-6107d911-03bc-4254-976c-50b83707cbc7.png)
 
 Graph showing predicted 30 day future prices:
+
+![image](https://user-images.githubusercontent.com/82794849/147861315-2f6d9949-56b8-4c78-bd62-e83a0b7f2697.png)
+
 
 
 
