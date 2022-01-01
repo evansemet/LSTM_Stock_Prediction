@@ -5,9 +5,12 @@ Used a Long Short-Term Memory (LTSM) Artificial Recurrent Neural Network (RNN) m
 
 
 Graph of SPXL (3x Leveraged S&P500):
+
 ![image](https://user-images.githubusercontent.com/82794849/147861274-8d4cb3fe-31ed-4ecc-a6be-fa6df47968ca.png)
 
 Graph showing training of LTSM RNN model:
+
+![image](https://user-images.githubusercontent.com/82794849/147861300-6107d911-03bc-4254-976c-50b83707cbc7.png)
 
 Graph showing predicted 30 day future prices:
 
