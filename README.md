@@ -1,5 +1,5 @@
 # AI Stock Price Predictor
-Used a Long Short-Term Memory (LTSM) Artificial Recurrent Neural Network (RNN) model to predict future stock prices.
+Used a Long Short-Term Memory (LSTM) Artificial Recurrent Neural Network (RNN) model to predict future stock prices.
 
 
 
@@ -10,7 +10,7 @@ Graph of SPXL (3x Leveraged S&P500):
 
 ![image](https://user-images.githubusercontent.com/82794849/147861274-8d4cb3fe-31ed-4ecc-a6be-fa6df47968ca.png)
 
-Graph showing training of LTSM RNN model on SPXL:
+Graph showing training of LSTM RNN model on SPXL:
 
 ![image](https://user-images.githubusercontent.com/82794849/147861300-6107d911-03bc-4254-976c-50b83707cbc7.png)
 
